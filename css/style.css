@@ -2802,7 +2802,7 @@ h6 {
   font-size: 14px;
   font-weight: 400;
   line-height: 48px;
-  border-radius: 0px;
+  border-radius: 3rem;
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
@@ -2824,7 +2824,7 @@ h6 {
   font-size: 14px;
   font-weight: 400;
   line-height: 48px;
-  border-radius: 0px;
+  border-radius: 3rem;
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
@@ -2845,7 +2845,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   line-height: 48px;
-  border-radius: 5px;
+  border-radius: 3rem;
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
